@@ -117,7 +117,7 @@ Based on your symptoms (lightheadedness, leg weakness), you might be experiencin
 
 ## 🎞 Presentation Slides
 
-You can view the project presentation here: [Intelligent_Symptom_Interpretation_System.pptx](Intelligent_Symptom_Interpretation_System.pptx)
+You can view the project presentation here: [Intelligent_Symptom_Interpretation_System.pptx](Intelligent_Symptom_Interpretation.pptx)
 
 
 ---
