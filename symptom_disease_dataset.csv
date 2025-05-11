@@ -1,0 +1,6 @@
+chills,cough,fatigue,fever,headache,loss of taste,muscle pain,nausea,runny nose,sensitivity to light,shortness of breath,sore throat,sweating,vomiting,disease
+0,1,0,1,0,0,0,0,1,0,0,1,0,0,Common Cold
+0,0,1,1,1,0,1,0,0,0,0,0,0,0,Flu
+0,1,0,1,0,1,0,0,0,0,1,0,0,0,COVID-19
+0,0,0,0,1,0,0,1,0,1,0,0,0,0,Migraine
+1,0,0,1,0,0,0,0,0,0,0,0,1,1,Malaria
